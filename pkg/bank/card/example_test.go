@@ -1,7 +1,7 @@
 package card
 
 import (
-	"Payment/pkg/bank/types"
+	"bank/pkg/bank/types"
 	"fmt"
 )
 
